@@ -1,4 +1,4 @@
-# Data Science Job Segmentation Model
+# Data Science Job Segmentation Model Using DBSCAN 
 
 ## Overview
 
